@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/http//AbdullahAfridi.github.io/covid19update/static/css/main.55daf951.chunk.css",
+    "main.js": "/http//AbdullahAfridi.github.io/covid19update/static/js/main.f4ee1a31.chunk.js",
+    "main.js.map": "/http//AbdullahAfridi.github.io/covid19update/static/js/main.f4ee1a31.chunk.js.map",
+    "runtime-main.js": "/http//AbdullahAfridi.github.io/covid19update/static/js/runtime-main.e735b035.js",
+    "runtime-main.js.map": "/http//AbdullahAfridi.github.io/covid19update/static/js/runtime-main.e735b035.js.map",
+    "static/js/2.4f71ffa1.chunk.js": "/http//AbdullahAfridi.github.io/covid19update/static/js/2.4f71ffa1.chunk.js",
+    "static/js/2.4f71ffa1.chunk.js.map": "/http//AbdullahAfridi.github.io/covid19update/static/js/2.4f71ffa1.chunk.js.map",
+    "index.html": "/http//AbdullahAfridi.github.io/covid19update/index.html",
+    "precache-manifest.76dd3b13dce2849229ced030ca277348.js": "/http//AbdullahAfridi.github.io/covid19update/precache-manifest.76dd3b13dce2849229ced030ca277348.js",
+    "service-worker.js": "/http//AbdullahAfridi.github.io/covid19update/service-worker.js",
+    "static/css/main.55daf951.chunk.css.map": "/http//AbdullahAfridi.github.io/covid19update/static/css/main.55daf951.chunk.css.map",
+    "static/js/2.4f71ffa1.chunk.js.LICENSE.txt": "/http//AbdullahAfridi.github.io/covid19update/static/js/2.4f71ffa1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e735b035.js",
+    "static/js/2.4f71ffa1.chunk.js",
+    "static/css/main.55daf951.chunk.css",
+    "static/js/main.f4ee1a31.chunk.js"
+  ]
+}
